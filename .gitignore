@@ -1,0 +1,6 @@
+# Exclude the vendor directory
+vendor/
+
+/data/*
+!/data/feed.xml
+!/data/test_feed.xml

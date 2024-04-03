@@ -1,0 +1,54 @@
+<items>
+    <item>
+        <entity_id>1</entity_id>
+        <CategoryName>Category 1</CategoryName>
+        <sku>SKU001</sku>
+        <name>Product 1</name>
+        <description>Description of Product 1</description>
+        <shortdesc>Short description of Product 1</shortdesc>
+        <price>10.99</price>
+        <link>http://example.com/product1</link>
+        <image>http://example.com/images/product1.jpg</image>
+        <Brand>Brand A</Brand>
+        <Rating>4.5</Rating>
+        <CaffeineType>Caffeinated</CaffeineType>
+        <Count>100</Count>
+        <Count_agg>Aggregated Count for Product 1</Count_agg>
+        <Flavored>No</Flavored>
+        <Seasonal>No</Seasonal>
+        <Instock>Yes</Instock>
+        <Facebook>http://facebook.com/product1</Facebook>
+        <IsKCup>No</IsKCup>
+        <entity_id_agg>Entity ID Aggregated for Product 1</entity_id_agg>
+        <Facebook_agg>Facebook Aggregated for Product 1</Facebook_agg>
+        <IsKCup_agg>IsKCup Aggregated for Product 1</IsKCup_agg>
+        <Rating_agg>Rating Aggregated for Product 1</Rating_agg>
+        <price_agg>Price Aggregated for Product 1</price_agg>
+    </item>
+    <item>
+        <entity_id>2</entity_id>
+        <CategoryName>Category 2</CategoryName>
+        <sku>SKU002</sku>
+        <name>Product 2</name>
+        <description>Description of Product 2</description>
+        <shortdesc>Short description of Product 2</shortdesc>
+        <price>19.99</price>
+        <link>http://example.com/product2</link>
+        <image>http://example.com/images/product2.jpg</image>
+        <Brand>Brand B</Brand>
+        <Rating>4.0</Rating>
+        <CaffeineType>Decaffeinated</CaffeineType>
+        <Count>50</Count>
+        <Count_agg>Aggregated Count for Product 2</Count_agg>
+        <Flavored>Yes</Flavored>
+        <Seasonal>No</Seasonal>
+        <Instock>Yes</Instock>
+        <Facebook>http://facebook.com/product2</Facebook>
+        <IsKCup>Yes</IsKCup>
+        <entity_id_agg>Entity ID Aggregated for Product 2</entity_id_agg>
+        <Facebook_agg>Facebook Aggregated for Product 2</Facebook_agg>
+        <IsKCup_agg>IsKCup Aggregated for Product 2</IsKCup_agg>
+        <Rating_agg>Rating Aggregated for Product 2</Rating_agg>
+        <price_agg>Price Aggregated for Product 2</price_agg>
+    </item>
+</items>

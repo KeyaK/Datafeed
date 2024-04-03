@@ -1,0 +1,1 @@
+[03-Apr-2024 10:50:43 UTC] Could not connect to the database: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for your_db_host failed: nodename nor servname provided, or not known
